@@ -59,6 +59,6 @@
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/VisionDetector.git
-cd VisionDetector
+git clone [https://github.com/yourusername/VisionDetector.git](https://github.com/kouroshbashiri16/SmartVision)
+cd SmartVision
 pip install opencv-python numpy pillow ultralytics
