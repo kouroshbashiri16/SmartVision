@@ -56,9 +56,9 @@
 - Webcam (built-in or external)
 - 4GB RAM minimum
 - 2GB free disk space
-
+pip install opencv-python numpy pillow ultralytics
 ### Step 1: Clone Repository
 ```bash
-git clone [https://github.com/yourusername/VisionDetector.git](https://github.com/kouroshbashiri16/SmartVision)
+git clone https://github.com/kouroshbashiri16/SmartVision
 cd SmartVision
-pip install opencv-python numpy pillow ultralytics
+
