@@ -61,3 +61,4 @@
 ```bash
 git clone https://github.com/yourusername/VisionDetector.git
 cd VisionDetector
+pip install opencv-python numpy pillow ultralytics
