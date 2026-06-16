@@ -20,14 +20,6 @@
 
 ---
 
-## 📸 Preview
-
-![Application Demo](screenshots/demo.png)
-
-*Real-time person detection with live FPS counter and statistics*
-
----
-
 ## ✨ Features
 
 ### 🎯 Core Features
