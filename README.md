@@ -59,6 +59,6 @@
 pip install opencv-python numpy pillow ultralytics
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/kouroshbashiri16/SmartVision
+git clone https://github.com/kouroshbashiri16/SmartVision/tree/main
 cd SmartVision
 
